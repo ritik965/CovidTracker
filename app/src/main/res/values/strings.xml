@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CovidTracker</string>
+    <string name="show_countries">show Countries</string>
+    <string name="total_cases">Total cases</string>
+    <string name="active">Active</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+    <string name="cases">Cases</string>
+    <string name="Recovered">Recovered</string>
+    <string name="critical">Critical</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="Active">Active</string>
+    <string name="total_deaths">total Deaths</string>
+    <string name="today_deaths">Today deaths</string>
+    <string name="affected_countries">Affected Countries</string>
+    <string name="country">Country</string>
+    <string name="today_cases1">today Cases</string>
+    <string name="deaths1">Deaths</string>
+    <string name="today_death">Today death</string>
+    <string name="active_case">Active Case</string>
+    <string name="recovery">Recovery</string>
+    <string name="criticals">Criticals</string>
+</resources>
